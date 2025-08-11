@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/zelim/Desktop/Garage/garage/src/app/page.js"],"sourcesContent":["export default function Home() {\n  return (\n    <main>\n      {/* Здесь будут все секции твоего одностраничника */}\n    </main>\n  )\n}"],"names":[],"mappings":";;;;;AAAe,SAAS;IACtB,qBACE,8OAAC;;;;;AAIL","debugId":null}}]
+}

@@ -1,0 +1,27 @@
+/* [project]/src/components/nothingfont_bd183084.module.css [app-client] (css) */
+@font-face {
+  font-family: nothingFont;
+  src: url("../media/Nothing-s.p.e9528977.ttf") format("truetype");
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: nothingFont Fallback;
+  src: local(Arial);
+  ascent-override: 167.41%;
+  descent-override: 43.71%;
+  line-gap-override: 18.97%;
+  size-adjust: 47.37%;
+}
+
+.nothingfont_bd183084-module__gxWxdW__className {
+  font-family: nothingFont, nothingFont Fallback;
+}
+
+.nothingfont_bd183084-module__gxWxdW__variable {
+  --font-nothing: "nothingFont", "nothingFont Fallback";
+}
+
+/*# sourceMappingURL=src_components_nothingfont_bd183084_module_4e1f5972.css.map*/
